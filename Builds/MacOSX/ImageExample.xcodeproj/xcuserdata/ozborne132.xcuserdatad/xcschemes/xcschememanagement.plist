@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ImageExample - AU.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>ImageExample - All.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>ImageExample - Shared Code.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>ImageExample - Standalone Plugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>ImageExample - VST.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>530F2686340F60AEE85003CB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>84FBD3C8C897CD6CE5F89A02</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A7907D98BAE12BDE700C0612</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C74A79F1296DB7ECC91A30BE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CAD1143A5B49CA0E29F51C0D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
